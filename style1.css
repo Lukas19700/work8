@@ -1,67 +1,152 @@
-.first {
-    border: 3px solid black;
-    border-top: none;
-
-  }
-     .second {
-        border: 3px solid black;
-        border-top: 0px;
-    
-        
-         }
-         .third {
-            border: 3px solid black;
-            
-        border-top: 0px;
-             }
-             .fourth {
-                border: 3px solid black;
-                
-        border-top: 0px;
-                 }
-                 .fifth {
-                    border: 3px solid black;
-                    border-bottom: 0px;
-        border-top: 0px;
-                     }
-                     .sixth {
-                        border: 3px solid black;
-                        border-bottom: 0px;
-                         }
-                         .seventh {
-                            border: 3px solid black;
-                            border-bottom: none;
-                             }
-                             .box {
-                                width: 20%;
-                                display: block;
-                                text-align: center;
-                                margin-left: auto;
-                                margin-right: auto;
-                             }
-                             h1 {
-                                position:relative;
-                                left: 600px;
-                             }
-                             .first:hover {
-                                background-color:red;
-                             }
-                             .second:hover {
-                                background-color:red;
-                             }
-                             .third:hover {
-                                background-color:red;
-                             }
-                             .fourth:hover {
-                                background-color:red;
-                             }
-                             .fifth:hover {
-                                background-color:red;
-                             }
-                             .sixth:hover {
-                                background-color:red;
-                             }
-                             .seventh:hover {
-                                background-color:red;
-                             }
-                            
+.container {
+  border: 1px solid blue;
+  width: 1000px;
+  height: 100px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+li {
+  background-color: blue;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item10 {
+  margin-right: 80px;
+}
+.container2 {
+  border: 1px solid blue;
+  background-color: pink;
+  width: 1000px;
+  height: 100px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.item1 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item2 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item3 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item4 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item5 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item6 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item7 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item8 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item9 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+list-style: none;
+}
+.item11 {
+  background-color: purple;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+padding: 5px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: 80px;
+list-style: none;
+}
