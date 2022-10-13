@@ -1,0 +1,67 @@
+.first {
+    border: 3px solid black;
+    border-top: none;
+
+  }
+     .second {
+        border: 3px solid black;
+        border-top: 0px;
+    
+        
+         }
+         .third {
+            border: 3px solid black;
+            
+        border-top: 0px;
+             }
+             .fourth {
+                border: 3px solid black;
+                
+        border-top: 0px;
+                 }
+                 .fifth {
+                    border: 3px solid black;
+                    border-bottom: 0px;
+        border-top: 0px;
+                     }
+                     .sixth {
+                        border: 3px solid black;
+                        border-bottom: 0px;
+                         }
+                         .seventh {
+                            border: 3px solid black;
+                            border-bottom: none;
+                             }
+                             .box {
+                                width: 20%;
+                                display: block;
+                                text-align: center;
+                                margin-left: auto;
+                                margin-right: auto;
+                             }
+                             h1 {
+                                position:relative;
+                                left: 600px;
+                             }
+                             .first:hover {
+                                background-color:red;
+                             }
+                             .second:hover {
+                                background-color:red;
+                             }
+                             .third:hover {
+                                background-color:red;
+                             }
+                             .fourth:hover {
+                                background-color:red;
+                             }
+                             .fifth:hover {
+                                background-color:red;
+                             }
+                             .sixth:hover {
+                                background-color:red;
+                             }
+                             .seventh:hover {
+                                background-color:red;
+                             }
+                            
